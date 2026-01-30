@@ -2,10 +2,10 @@ cask "focushue" do
   version "1.0.0"
   sha256 "f03d995c4182bffb62bf88ab85a42a72ced8885e450c6bee9a37d4a6fe89cc3b"
 
-  url "https://github.com/josephhartono/FocusHue/releases/download/v#{version}/FocusHue.dmg"
+  url "https://github.com/Blueflier/FocusHue/releases/download/v#{version}/FocusHue.dmg"
   name "FocusHue"
   desc "Automated greyscale for deep work focus"
-  homepage "https://github.com/josephhartono/FocusHue"
+  homepage "https://github.com/Blueflier/FocusHue"
 
   app "FocusHue.app"
 
