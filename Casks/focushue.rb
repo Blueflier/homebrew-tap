@@ -1,6 +1,6 @@
 cask "focushue" do
   version "1.0.0"
-  sha256 "PASTE_YOUR_SHA256_STRING_HERE"
+  sha256 "f03d995c4182bffb62bf88ab85a42a72ced8885e450c6bee9a37d4a6fe89cc3b"
 
   url "https://github.com/josephhartono/FocusHue/releases/download/v#{version}/FocusHue.dmg"
   name "FocusHue"
