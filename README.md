@@ -47,9 +47,3 @@ brew tap Blueflier/tap
 ## License
 
 [MIT](https://www.google.com/search?q=LICENSE) © Joseph Hartono
-
-```
-
-**Would you like me to help you write a script to automatically update the version and SHA256 in the `.rb` file whenever you release a new `.dmg`?**
-
-```
