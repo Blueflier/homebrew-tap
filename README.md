@@ -1,4 +1,4 @@
-```markdown
+
 # Blueflier's Homebrew Tap
 
 A personal collection of macOS applications and tools. Currently, this tap is the primary home for **FocusHue**.
@@ -9,7 +9,6 @@ To add this tap to your local Homebrew installation:
 
 ```bash
 brew tap Blueflier/tap
-
 ```
 
 ## Available Casks
