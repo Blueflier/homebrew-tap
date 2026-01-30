@@ -20,7 +20,7 @@ A macOS focus app designed to help you maintain deep work through visual cues an
 **To install:**
 
 ```bash
-brew install --cask focushue
+brew install --cask Blueflier/tap/focushue
 
 ```
 
