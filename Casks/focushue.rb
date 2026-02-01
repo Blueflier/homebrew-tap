@@ -10,8 +10,8 @@ cask "focushue" do
   app "FocusHue.app"
 
   zap trash: [
-    "~/Library/Application Support/FocusHue",
-    "~/Library/Preferences/com.josephhartono.FocusHue.plist",
+      "~/Library/Application Support/FocusHue",
+      "~/Library/Preferences/jio.osephhartono.FocusHue.FocusHue.plist",
   ]
 
   # This section appears in the terminal after the user installs
