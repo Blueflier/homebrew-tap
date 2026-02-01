@@ -1,6 +1,6 @@
 cask "focushue" do
-  version "1.1.8"
-  sha256 "fa9591ec7db9de4caead26c4919ac08c899a9bc2169afce89ff32bccfda0862a"
+  version "1.1.9"
+  sha256 "e0de85162026f3f4371169699281effaeb5adccd1fede2cf2c77007adf04325d"
 
   url "https://github.com/Blueflier/FocusHue/releases/download/v#{version}/FocusHue.dmg"
   name "FocusHue"
